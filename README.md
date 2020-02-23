@@ -2,6 +2,8 @@
 Variable Time Reconstruction based modeling framework for soft sensor development
 
 This is the code for the manuscript "Refining Data-driven Soft Sensor Modeling Framework with Variable Time Reconstruction".
+
+Links:
 https://www.sciencedirect.com/science/article/pii/S0959152419304913
 or
 https://doi.org/10.1016/j.jprocont.2020.01.009
