@@ -1,7 +1,6 @@
 # VTR-based-Soft-Sensor
-Variable Time Reconstruction based modeling framework for soft sensor development
+This is the code for the paper "Refining Data-driven Soft Sensor Modeling Framework with Variable Time Reconstruction".
 
-This is the code for the manuscript "Refining Data-driven Soft Sensor Modeling Framework with Variable Time Reconstruction".
 According to the limitations of Confidentiality agreement that we signed with the industrial entertainments, the dataset of the real industrial cases cannot be provided here. However, the core algorithms in present code for numerical examples are the same as those for induatrial cases. Therefore, they are also representative and can be useful in your practical situations.
 
 Links for the paper:
